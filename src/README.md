@@ -1,5 +1,5 @@
 
-# Functional Interface
+<img width=100% src="https://capsule-render.vercel.app/api?type=rounded&height=95&color=F4D9D0&text=Functional%20Interface&reversal=false&section=header&textBg=false&fontColor=474A51&animation=fadeIn&fontAlign=50&fontSize=70"/>
 
 Qualquer interface com um SAM (Single Abstract Method) é uma interface funcional e sua implementação pode ser tratada
 como
